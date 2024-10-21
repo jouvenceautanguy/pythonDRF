@@ -1,0 +1,8 @@
+ brew install redis
+ pip install django-redis
+ pip install django-ratelimit
+pip install djangorestframework-simplejwt
+ pip install django-filter
+ pip install drf-yasg
+ pip install djangorestframework
+ pip install django
